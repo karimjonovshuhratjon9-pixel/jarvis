@@ -1,0 +1,8 @@
+{
+  "os_system": "windows",
+  "voice_name": "puck",
+  "live_model": "",
+  "tts_provider": "gemini",
+  "tts_voice_id": "puck",
+  "camera_index": 0
+}
